@@ -1,0 +1,17 @@
+/**
+ * <h4>FeatureDomain:</h4>
+ *     publishing
+ *
+ * <h4>FeatureDescription:</h4>
+ *     software for printing urls to pdf
+ * 
+ * @author Michael Schreiner <ich@michas-ausflugstipps.de>
+ * @author Bases on cmdprinting from from O. Atsushi https://sites.google.com/site/torisugari/commandlineprint2 whose module was broken since firefox 4.X. Many Thanks to him for the idea and some of the code.
+ * @category publishing
+ * @copyright Copyright (c) 2012-2014, Michael Schreiner
+ * @license http://mozilla.org/MPL/2.0/ Mozilla Public License 2.0
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ */

@@ -1,0 +1,6 @@
+content     matcmdprinting    chrome/content/
+locale      matcmdprinting    en-US chrome/locale/en-US/
+overlay     chrome://browser/content/browser.xul chrome://matcmdprinting/content/mininav.xul
+component   {2991c315-b871-42cd-b33f-bfee4fcbf683} components/matcmdprinting.js
+contract    @mozilla.org/commandlinehandler/general-startup;1?type=matcmdprinting {2991c315-b871-42cd-b33f-bfee4fcbf683}
+category    command-line-handler m-matcmdprinting @mozilla.org/commandlinehandler/general-startup;1?type=matcmdprinting
