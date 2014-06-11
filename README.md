@@ -2,15 +2,15 @@ mat-cmdprinting plugin for firefox
 =====================
 
 # Desc
-A firefox-plugin that prints Urls to PDF direct from the commandline.
+A firefox-plugin that prints webpages as PDF direct from the commandline.
 It is customized for printing www.michas-ausflugstipps.de.
 
-Bases on cmdprinting from from O. Atsushi https://sites.google.com/site/torisugari/commandlineprint2 
-whose module was broken since firefox 4.X. Many Thanks to him for the idea and some of the code.
+Based on cmdprinting by O. Atsushi from https://sites.google.com/site/torisugari/commandlineprint2 
+whose module was broken since firefox 4.X. Many thanks to him for the idea and some of the code.
 
 # TODO for me
 - [ ] use and optimize it :-)
-- [ ] if plugin is activated sometimes firefox has layoutproblems
+- [ ] if plugin is activated sometimes firefox has layout problems
 
 # History and milestones
 - 2014 
@@ -22,7 +22,7 @@ whose module was broken since firefox 4.X. Many Thanks to him for the idea and s
 # Requires
 - for building
    - zip
-- for use
+- to use
    - firefox > 4.0
 
 # Install
@@ -59,7 +59,7 @@ tests\test.bat
 ```
 /**
  * @author Michael Schreiner <ich@michas-ausflugstipps.de>
- * @author Inspired by cmdprinting from from O. Atsushi torisugari@gmail.com whose module was broken since firefox 2.X. Many Thanks to him for the idea and some of the code.
+ * @author Inspired by cmdprinting by O. Atsushi torisugari@gmail.com whose module was broken since firefox 2.X. Many thanks to him for the idea and some of the code.
  * @category publishing
  * @copyright Copyright (c) 2011-2014, Michael Schreiner
  * @license http://mozilla.org/MPL/2.0/ Mozilla Public License 2.0
